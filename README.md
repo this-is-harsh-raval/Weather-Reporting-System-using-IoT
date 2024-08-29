@@ -6,6 +6,7 @@
 
 A weather reporting system is a network of devices that collect and transmit real-time weather data, such as temperature, humidity, pressure, and wind speed. This data is then analyzed and presented in various formats, including weather forecasts, maps, and alerts.
 
+
 **How Does a Weather Reporting System Work?**
 
 **Data Collection**: Sensors are deployed in different locations to measure weather parameters.
