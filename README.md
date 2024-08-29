@@ -16,6 +16,7 @@ A weather reporting system is a network of devices that collect and transmit rea
 
 **Data Presentation**: Processed data is presented in a user-friendly format, such as weather maps, charts, or alerts.
 
+
 **Applications of Weather Reporting Systems**
 
 **Agriculture**: Assist farmers in making informed decisions about planting, harvesting, and irrigation.
@@ -25,6 +26,7 @@ A weather reporting system is a network of devices that collect and transmit rea
 **Emergency Management**: Aid in disaster preparedness and response efforts.
 
 **Personal Use**: Offer personalized weather information for daily activities.
+
 
 **Why is a Weather Reporting System Important?**
 
